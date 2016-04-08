@@ -1,0 +1,6 @@
+/**
+ * sudoku-grid v1.0.0
+ * Copyright 2016 jsoon: serdeemail@gmail.com
+ * Licensed under the MIT license
+ */
+.sudoku{width:100%;margin:0 auto}.sudoku:after,.sudoku:before{display:table;content:" "}.sudoku:after{clear:both}.sudoku .sudoku-cell{position:relative;float:left;background:#ddd}.sudoku.sudoku-cells1 .sudoku-cell{width:100%;padding-bottom:100%}.sudoku.sudoku-cells2 .sudoku-cell{width:50%;padding-bottom:50%}.sudoku.sudoku-cells3 .sudoku-cell{width:33.33333333%;padding-bottom:33.33333333%}.sudoku.sudoku-cells4 .sudoku-cell{width:25%;padding-bottom:25%}.sudoku.sudoku-cells5 .sudoku-cell{width:20%;padding-bottom:20%}.sudoku.sudoku-cells6 .sudoku-cell{width:16.66666667%;padding-bottom:16.66666667%}.sudoku.sudoku-cells7 .sudoku-cell{width:14.28571429%;padding-bottom:14.28571429%}.sudoku.sudoku-cells8 .sudoku-cell{width:12.5%;padding-bottom:12.5%}.sudoku.sudoku-cells9 .sudoku-cell{width:11.11111111%;padding-bottom:11.11111111%}.sudoku .sudoku-digit{position:absolute;top:3%;right:3%;bottom:3%;left:3%;padding:3%;background:#eee}

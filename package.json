@@ -1,0 +1,20 @@
+{
+    "name": "sudoku-grid",
+    "description": "Sudoku style grid system",
+    "version": "1.0.0",
+    "authors": [
+        "jsoon: serdeemail@gmail.com"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">=4.3.0"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-cssnano": "^2.1.1",
+        "gulp-debug": "^2.1.2",
+        "gulp-header": "^1.7.1",
+        "gulp-less": "^3.0.5",
+        "gulp-rename": "^1.2.2"
+    }
+}
