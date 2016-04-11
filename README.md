@@ -2,7 +2,9 @@
 Sudoku style grid system. Simple, tiny, responsive, esay-to-use.
 
 ## Install
-> bower install sudoku-grid
+``` command
+bower install sudoku-grid
+```
 
 ## Usage
 ``` html
