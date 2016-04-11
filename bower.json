@@ -1,6 +1,5 @@
 {
     "name": "sudoku-grid",
-    "version": "1.0.0",
     "description": "Sudoku style grid system",
     "main": "src/sudoku-grid.less",
     "authors": [
