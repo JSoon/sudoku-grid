@@ -1,9 +1,10 @@
 {
     "name": "sudoku-grid",
-    "description": "Sudoku style grid system",
     "version": "1.0.0",
+    "description": "Sudoku style grid system",
+    "main": "src/sudoku-grid.less",
     "authors": [
-        "jsoon: serdeemail@gmail.com"
+        "jsoon <serdeemail@gmail.com>"
     ],
     "license": "MIT",
     "engines": {

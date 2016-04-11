@@ -1,0 +1,26 @@
+{
+    "name": "sudoku-grid",
+    "version": "1.0.0",
+    "description": "Sudoku style grid system",
+    "main": "src/sudoku-grid.less",
+    "authors": [
+        "jsoon <serdeemail@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "html",
+        "css",
+        "grid system"
+    ],
+    "moduleType": [
+        "globals"
+    ],
+    "homepage": "https://github.com/JSoon",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}

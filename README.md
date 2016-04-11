@@ -1,6 +1,9 @@
 # sudoku-grid
 Sudoku style grid system. Simple, tiny, responsive, esay-to-use.
 
+## Install
+> bower install sudoku-grid
+
 ## Usage
 ``` html
 <!-- just type sudoku-cells*, * is the columns amount -->
